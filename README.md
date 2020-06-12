@@ -1,6 +1,6 @@
 # sample-spring-aop
 
-Spring AOP with a logging aspect
+Using Spring AOP with a logging aspect
 
 
 Spring Boot 2.3.0  
